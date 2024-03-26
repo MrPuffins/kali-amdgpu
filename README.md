@@ -1,5 +1,6 @@
 # kali-amdgpu
 How to install kali amdgpu for hashcat
+[Click here to jump to the installation script](#installation)
 
 First, download the corresponding gpu driver from the amd official driver selection tool
 
@@ -92,3 +93,10 @@ OpenCL Platform ID #2
     PCI.Addr.BDF...: 12:00.0
 ```
 there ya go! 
+
+<a id="installation"></a>
+
+```git clone https://github.com/MrPuffins/kali-amdgpu.git```
+```cd kali-amdgpu```
+```sudo chmod +x ./install.sh```
+```sudo ./install.sh```
