@@ -2,7 +2,7 @@
 How to install kali amdgpu for hashcat
 [Click here to jump to the installation script](#installation)
 
-#Tested on rx6900 xt
+# TESTED on rx6900 xt
 First, download the corresponding gpu driver from the amd official driver selection tool
 
 https://www.amd.com/en/support
