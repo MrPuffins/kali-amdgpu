@@ -95,7 +95,8 @@ OpenCL Platform ID #2
 there ya go! 
 
 <a id="installation"></a>
-##HOW TO USE MY SCRIPT
+# HOW TO USE MY SCRIPT
+
 ```git clone https://github.com/MrPuffins/kali-amdgpu.git```
 
 ```cd kali-amdgpu```
