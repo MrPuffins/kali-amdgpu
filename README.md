@@ -1,4 +1,4 @@
-# kali-amdgpu
+# KALI AMDGPU SUPPORT DRIVERS FOR HASHCAT
 How to install kali amdgpu for hashcat
 [Click here to jump to the installation script](#installation)
 
