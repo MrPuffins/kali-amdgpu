@@ -10,7 +10,7 @@ wget "$PKG_URL" -O "$PKG_NAME"
 sudo apt install -y ./"$PKG_NAME" hashcat
 
 # Modify installation script for Kali Linux compatibility
-sudo sed -i 's/ubuntu|linuxmint|debian)/&|kali/' /usr/bin/amdgpu-install
+sudo sed -i 's/ubuntu|linuxmint|debian)/&|kali)/' /usr/bin/amdgpu-install
 
 # Install
 amdgpu-install --no-dkms --usecase=opencl
